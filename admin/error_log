@@ -1,0 +1,107 @@
+[22-Nov-2019 08:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/aqualuxy/public_html/admin/config.php:13
+Stack trace:
+#0 /home/aqualuxy/public_html/admin/framework.php(4): include_once()
+#1 {main}
+  thrown in /home/aqualuxy/public_html/admin/config.php on line 13
+[22-Nov-2019 08:16:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/aqualuxy/public_html/admin/config.php:13
+Stack trace:
+#0 /home/aqualuxy/public_html/admin/framework.php(4): include_once()
+#1 {main}
+  thrown in /home/aqualuxy/public_html/admin/config.php on line 13
+[22-Nov-2019 08:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/aqualuxy/public_html/admin/config.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/aqualuxy/public_html/admin/config.php on line 13
+[22-Nov-2019 08:18:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/aqualuxy/public_html/admin/config.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/aqualuxy/public_html/admin/config.php on line 13
+[22-Nov-2019 08:26:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/aqualuxy/public_html/admin/config.php:13
+Stack trace:
+#0 /home/aqualuxy/public_html/admin/framework.php(4): include_once()
+#1 {main}
+  thrown in /home/aqualuxy/public_html/admin/config.php on line 13
+[22-Nov-2019 08:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/aqualuxy/public_html/admin/config.php:13
+Stack trace:
+#0 /home/aqualuxy/public_html/admin/framework.php(4): include_once()
+#1 {main}
+  thrown in /home/aqualuxy/public_html/admin/config.php on line 13
+[22-Nov-2019 08:29:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/aqualuxy/public_html/admin/config.php:13
+Stack trace:
+#0 /home/aqualuxy/public_html/admin/framework.php(4): include_once()
+#1 {main}
+  thrown in /home/aqualuxy/public_html/admin/config.php on line 13
+[22-Nov-2019 08:29:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_escape_string() in /home/aqualuxy/public_html/admin/framework.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/aqualuxy/public_html/admin/framework.php on line 7
+[22-Nov-2019 08:34:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aqualuxy/public_html/admin/config.php on line 13
+[22-Nov-2019 08:34:12 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/aqualuxy/public_html/admin/config.php on line 18
+[22-Nov-2019 08:34:12 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 19
+[22-Nov-2019 08:34:12 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 21
+[22-Nov-2019 08:34:12 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 7
+[22-Nov-2019 08:34:12 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 8
+[22-Nov-2019 08:34:12 UTC] PHP Warning:  include_once(/home/aqualuxy/public_html/incl/frameClass.php): failed to open stream: No such file or directory in /home/aqualuxy/public_html/admin/framework.php on line 40
+[22-Nov-2019 08:34:12 UTC] PHP Warning:  include_once(): Failed opening '/home/aqualuxy/public_html/incl/frameClass.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aqualuxy/public_html/admin/framework.php on line 40
+[22-Nov-2019 08:34:12 UTC] PHP Fatal error:  Class 'cls_AdminManagement' not found in /home/aqualuxy/public_html/admin/framework.php on line 41
+[24-Nov-2019 12:59:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aqualuxy/public_html/admin/config.php on line 13
+[24-Nov-2019 12:59:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/aqualuxy/public_html/admin/config.php on line 18
+[24-Nov-2019 12:59:35 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 19
+[24-Nov-2019 12:59:35 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 21
+[24-Nov-2019 12:59:35 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 7
+[24-Nov-2019 12:59:35 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 8
+[24-Nov-2019 12:59:35 UTC] PHP Warning:  include_once(/home/aqualuxy/public_html/incl/frameClass.php): failed to open stream: No such file or directory in /home/aqualuxy/public_html/admin/framework.php on line 40
+[24-Nov-2019 12:59:35 UTC] PHP Warning:  include_once(): Failed opening '/home/aqualuxy/public_html/incl/frameClass.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aqualuxy/public_html/admin/framework.php on line 40
+[24-Nov-2019 12:59:35 UTC] PHP Fatal error:  Class 'cls_AdminManagement' not found in /home/aqualuxy/public_html/admin/framework.php on line 41
+[25-Nov-2019 04:47:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aqualuxy/public_html/admin/config.php on line 13
+[25-Nov-2019 04:47:21 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/aqualuxy/public_html/admin/config.php on line 18
+[25-Nov-2019 04:47:21 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 19
+[25-Nov-2019 04:47:21 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 21
+[25-Nov-2019 04:47:21 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 7
+[25-Nov-2019 04:47:21 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 8
+[25-Nov-2019 04:47:21 UTC] PHP Warning:  include_once(/home/aqualuxy/public_html/incl/frameClass.php): failed to open stream: No such file or directory in /home/aqualuxy/public_html/admin/framework.php on line 40
+[25-Nov-2019 04:47:21 UTC] PHP Warning:  include_once(): Failed opening '/home/aqualuxy/public_html/incl/frameClass.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aqualuxy/public_html/admin/framework.php on line 40
+[25-Nov-2019 04:47:21 UTC] PHP Fatal error:  Class 'cls_AdminManagement' not found in /home/aqualuxy/public_html/admin/framework.php on line 41
+[16-Feb-2020 03:47:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aqualuxy/public_html/admin/config.php on line 13
+[16-Feb-2020 03:47:16 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/aqualuxy/public_html/admin/config.php on line 18
+[16-Feb-2020 03:47:16 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 19
+[16-Feb-2020 03:47:16 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 21
+[16-Feb-2020 03:47:16 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 7
+[16-Feb-2020 03:47:16 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 8
+[16-Feb-2020 03:47:16 UTC] PHP Warning:  include_once(/home/aqualuxy/public_html/incl/frameClass.php): failed to open stream: No such file or directory in /home/aqualuxy/public_html/admin/framework.php on line 40
+[16-Feb-2020 03:47:16 UTC] PHP Warning:  include_once(): Failed opening '/home/aqualuxy/public_html/incl/frameClass.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aqualuxy/public_html/admin/framework.php on line 40
+[16-Feb-2020 03:47:16 UTC] PHP Fatal error:  Class 'cls_AdminManagement' not found in /home/aqualuxy/public_html/admin/framework.php on line 41
+[17-Jul-2020 03:16:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aqualuxy/public_html/admin/config.php on line 13
+[17-Jul-2020 03:16:59 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 19
+[17-Jul-2020 03:16:59 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 21
+[17-Jul-2020 03:16:59 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 7
+[17-Jul-2020 03:16:59 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 8
+[17-Jul-2020 03:16:59 UTC] PHP Warning:  include_once(/home/aqualuxy/public_html/incl/frameClass.php): failed to open stream: No such file or directory in /home/aqualuxy/public_html/admin/framework.php on line 40
+[17-Jul-2020 03:16:59 UTC] PHP Warning:  include_once(): Failed opening '/home/aqualuxy/public_html/incl/frameClass.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aqualuxy/public_html/admin/framework.php on line 40
+[17-Jul-2020 03:16:59 UTC] PHP Fatal error:  Class 'cls_AdminManagement' not found in /home/aqualuxy/public_html/admin/framework.php on line 41
+[17-Jul-2020 03:17:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aqualuxy/public_html/admin/config.php on line 13
+[17-Jul-2020 03:17:07 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 7
+[17-Jul-2020 03:17:07 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 8
+[17-Jul-2020 03:17:07 UTC] PHP Warning:  include_once(/home/aqualuxy/public_html/incl/frameClass.php): failed to open stream: No such file or directory in /home/aqualuxy/public_html/admin/framework.php on line 40
+[17-Jul-2020 03:17:07 UTC] PHP Warning:  include_once(): Failed opening '/home/aqualuxy/public_html/incl/frameClass.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aqualuxy/public_html/admin/framework.php on line 40
+[17-Jul-2020 03:17:07 UTC] PHP Fatal error:  Class 'cls_AdminManagement' not found in /home/aqualuxy/public_html/admin/framework.php on line 41
+[17-Jul-2020 03:22:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aqualuxy/public_html/admin/config.php on line 13
+[17-Jul-2020 03:22:15 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 7
+[17-Jul-2020 03:22:15 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 8
+[17-Jul-2020 03:22:15 UTC] PHP Warning:  include_once(/home/aqualuxy/public_html/incl/frameClass.php): failed to open stream: No such file or directory in /home/aqualuxy/public_html/admin/framework.php on line 40
+[17-Jul-2020 03:22:15 UTC] PHP Warning:  include_once(): Failed opening '/home/aqualuxy/public_html/incl/frameClass.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aqualuxy/public_html/admin/framework.php on line 40
+[17-Jul-2020 03:22:15 UTC] PHP Fatal error:  Class 'cls_AdminManagement' not found in /home/aqualuxy/public_html/admin/framework.php on line 41
+[22-Sep-2020 16:48:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aqualuxy/public_html/admin/config.php on line 13
+[22-Sep-2020 16:48:29 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 19
+[22-Sep-2020 16:48:29 UTC] PHP Notice:  Undefined index: user in /home/aqualuxy/public_html/admin/config.php on line 21
+[22-Sep-2020 16:48:29 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 7
+[22-Sep-2020 16:48:29 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 8
+[22-Sep-2020 16:48:29 UTC] PHP Warning:  include_once(/home/aqualuxy/public_html/incl/frameClass.php): failed to open stream: No such file or directory in /home/aqualuxy/public_html/admin/framework.php on line 40
+[22-Sep-2020 16:48:29 UTC] PHP Warning:  include_once(): Failed opening '/home/aqualuxy/public_html/incl/frameClass.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aqualuxy/public_html/admin/framework.php on line 40
+[22-Sep-2020 16:48:29 UTC] PHP Fatal error:  Class 'cls_AdminManagement' not found in /home/aqualuxy/public_html/admin/framework.php on line 41
+[22-Sep-2020 16:48:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aqualuxy/public_html/admin/config.php on line 13
+[22-Sep-2020 16:48:34 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 7
+[22-Sep-2020 16:48:34 UTC] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/aqualuxy/public_html/admin/framework.php on line 8
+[22-Sep-2020 16:48:34 UTC] PHP Warning:  include_once(/home/aqualuxy/public_html/incl/frameClass.php): failed to open stream: No such file or directory in /home/aqualuxy/public_html/admin/framework.php on line 40
+[22-Sep-2020 16:48:34 UTC] PHP Warning:  include_once(): Failed opening '/home/aqualuxy/public_html/incl/frameClass.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aqualuxy/public_html/admin/framework.php on line 40
+[22-Sep-2020 16:48:34 UTC] PHP Fatal error:  Class 'cls_AdminManagement' not found in /home/aqualuxy/public_html/admin/framework.php on line 41
